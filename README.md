@@ -1,4 +1,4 @@
-# ✈️ TripMind AI
+# ✈️ Orbit AI
 
 AI-powered travel planner that creates personalized itineraries with real-time weather, smart route mapping, and conversational AI assistance.
 
